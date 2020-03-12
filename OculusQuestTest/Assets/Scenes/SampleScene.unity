@@ -943,7 +943,18 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 867233661}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 0}
+        m_MethodName: 
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: 
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &867233661
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2136,8 +2147,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4278190080
-  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
+    rgba: 4292904288
+  m_fontColor: {r: 0.376602, g: 0.52088773, b: 0.8773585, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -3284,7 +3295,7 @@ MonoBehaviour:
   m_BlockingObjects: 0
   m_BlockingMask:
     serializedVersion: 2
-    m_Bits: 4294967295
+    m_Bits: 0
 --- !u!114 &2110723974
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3362,6 +3373,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: edc87bb55818c3245947ebb8762de975, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  button: {fileID: 867233660}
 --- !u!1001 &4856704577197074
 PrefabInstance:
   m_ObjectHideFlags: 0
