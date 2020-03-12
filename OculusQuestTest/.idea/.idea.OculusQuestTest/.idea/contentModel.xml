@@ -11,6 +11,7 @@
         </e>
         <e p="Scripts" t="Include">
           <e p="BallController.cs" t="Include" />
+          <e p="BoardController.cs" t="Include" />
           <e p="GameController.cs" t="Include" />
         </e>
         <e p="TextMesh Pro" t="Include">
