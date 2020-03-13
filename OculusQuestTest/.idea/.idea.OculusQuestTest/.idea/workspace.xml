@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b481dac0-0217-4f5c-82f2-85387ce712c3" name="Default Changelist" comment="UI 2" />
+    <list default="true" id="b481dac0-0217-4f5c-82f2-85387ce712c3" name="Default Changelist" comment="UI 2">
+      <change afterPath="$PROJECT_DIR$/Assets/Editor.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Editor/MapGeneratorEditor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Editor/MapGeneratorEditor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Map.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Map.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/ONSPSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/ONSPSettings.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/MapGenerator.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/MapGenerator.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Noise.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Plane.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Plane.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.OculusQuestTest/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OculusQuestTest/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.OculusQuestTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OculusQuestTest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/BoardController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/BoardController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,13 +35,21 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/58A34B0A-618D-424B-B5FC-18BB9BCDAC20/ab/d7204b41/RectTransform.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.interaction.toolkit@0.9.3-preview/Runtime/Interaction/XRInteractionManager.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2EFDC780-086B-47F2-8399-FD0CE7A4BFA4/a3/2fed6dd2/Input.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MapDisplay.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Noise.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0D2763AD-8235-4FC6-A022-A2846086CA7B/8f/d4ec2f22/Axis.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/BoardController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Plane.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/58A34B0A-618D-424B-B5FC-18BB9BCDAC20/ab/d7204b41/RectTransform.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Editor/MapGeneratorEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Oculus.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Oculus/Spatializer.meta" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Oculus/AudioManager.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MapGenerator.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/BallController.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -35,6 +62,11 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/GameController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BallController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BoardController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Noise.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MapDisplay.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MapGenerator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Editor/MapGeneratorEditor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Plane.cs" />
       </list>
     </option>
   </component>
@@ -101,24 +133,29 @@
     <MESSAGE value="UI 2" />
     <MESSAGE value="UI stuff" />
     <MESSAGE value="More UI stuff" />
-    <option name="LAST_COMMIT_MESSAGE" value="More UI stuff" />
+    <MESSAGE value="Oculus Spatializer added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Oculus Spatializer added" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1577" y="459" key="Rider.ProjectTemplateDialog.Size" timestamp="1583941080343">
       <screen x="0" y="0" width="3440" height="1440" />
     </state>
     <state x="1577" y="459" key="Rider.ProjectTemplateDialog.Size/3440.-213.1200.1920/0.0.3440.1440@0.0.3440.1440" timestamp="1583941080343" />
-    <state x="1819" y="442" key="RiderGenerateDialog" timestamp="1583949692787">
+    <state x="1819" y="442" key="RiderGenerateDialog" timestamp="1584119915168">
       <screen x="0" y="0" width="3440" height="1440" />
     </state>
-    <state x="1819" y="442" key="RiderGenerateDialog/3440.-213.1200.1920/0.0.3440.1440@0.0.3440.1440" timestamp="1583949692787" />
+    <state x="1819" y="442" key="RiderGenerateDialog/3440.-213.1200.1920/0.0.3440.1440@0.0.3440.1440" timestamp="1584119915168" />
     <state x="1442" y="389" key="SettingsEditor" timestamp="1583936293414">
       <screen x="0" y="0" width="3440" height="1440" />
     </state>
     <state x="1442" y="389" key="SettingsEditor/3440.-213.1200.1920/0.0.3440.1440@0.0.3440.1440" timestamp="1583936293414" />
-    <state x="1577" y="460" key="Vcs.Push.Dialog.v2" timestamp="1583975489377">
+    <state x="1577" y="460" key="Vcs.Push.Dialog.v2" timestamp="1584027606240">
       <screen x="0" y="0" width="3440" height="1440" />
     </state>
-    <state x="1577" y="460" key="Vcs.Push.Dialog.v2/3440.-213.1200.1920/0.0.3440.1440@0.0.3440.1440" timestamp="1583975489377" />
+    <state x="1577" y="460" key="Vcs.Push.Dialog.v2/3440.-213.1200.1920/0.0.3440.1440@0.0.3440.1440" timestamp="1584027606240" />
+    <state x="1223" y="416" width="672" height="678" key="search.everywhere.popup" timestamp="1584121461858">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state x="1223" y="416" width="672" height="678" key="search.everywhere.popup/3440.-213.1200.1920/0.0.3440.1440@0.0.3440.1440" timestamp="1584121461858" />
   </component>
 </project>

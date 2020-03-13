@@ -8,7 +8,6 @@ public class BoardController : MonoBehaviour {
         button.onClick.AddListener(() => { Debug.Log("Start!"); });
     }
 
-    // Update is called once per frame
     void Update() {
     }
 }
