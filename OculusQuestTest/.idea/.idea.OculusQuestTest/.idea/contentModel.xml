@@ -94,6 +94,7 @@
           <e p="MapGenerator.cs" t="Include" />
           <e p="Noise.cs" t="Include" />
           <e p="Plane.cs" t="Include" />
+          <e p="TextureGenerator.cs" t="Include" />
         </e>
         <e p="TextMesh Pro" t="Include">
           <e p="Fonts" t="Include">
