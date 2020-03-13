@@ -2,23 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b481dac0-0217-4f5c-82f2-85387ce712c3" name="Default Changelist" comment="UI 2">
-      <change afterPath="$PROJECT_DIR$/Assets/Editor.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Editor/MapGeneratorEditor.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Editor/MapGeneratorEditor.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/Map.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/Map.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/ONSPSettings.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/ONSPSettings.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/MapGenerator.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/MapGenerator.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Noise.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Plane.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Plane.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.OculusQuestTest/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OculusQuestTest/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.OculusQuestTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OculusQuestTest/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/BoardController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/BoardController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MapGenerator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MapGenerator.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Noise.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Noise.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +37,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Oculus/AudioManager.meta" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MapGenerator.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/440D1D09-336D-46EE-B6BA-2229A55AC755/06/75207573/Math.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/BallController.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -62,11 +49,11 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/GameController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BallController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BoardController.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Noise.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MapDisplay.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/MapGenerator.cs" />
         <option value="$PROJECT_DIR$/Assets/Editor/MapGeneratorEditor.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Plane.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Noise.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MapGenerator.cs" />
       </list>
     </option>
   </component>
@@ -141,18 +128,18 @@
       <screen x="0" y="0" width="3440" height="1440" />
     </state>
     <state x="1577" y="459" key="Rider.ProjectTemplateDialog.Size/3440.-213.1200.1920/0.0.3440.1440@0.0.3440.1440" timestamp="1583941080343" />
-    <state x="1819" y="442" key="RiderGenerateDialog" timestamp="1584119915168">
+    <state x="1819" y="442" key="RiderGenerateDialog" timestamp="1584135382716">
       <screen x="0" y="0" width="3440" height="1440" />
     </state>
-    <state x="1819" y="442" key="RiderGenerateDialog/3440.-213.1200.1920/0.0.3440.1440@0.0.3440.1440" timestamp="1584119915168" />
-    <state x="1442" y="389" key="SettingsEditor" timestamp="1583936293414">
+    <state x="1819" y="442" key="RiderGenerateDialog/3440.-213.1200.1920/0.0.3440.1440@0.0.3440.1440" timestamp="1584135382716" />
+    <state x="1442" y="389" key="SettingsEditor" timestamp="1584134743903">
       <screen x="0" y="0" width="3440" height="1440" />
     </state>
-    <state x="1442" y="389" key="SettingsEditor/3440.-213.1200.1920/0.0.3440.1440@0.0.3440.1440" timestamp="1583936293414" />
-    <state x="1577" y="460" key="Vcs.Push.Dialog.v2" timestamp="1584027606240">
+    <state x="1442" y="389" key="SettingsEditor/3440.-213.1200.1920/0.0.3440.1440@0.0.3440.1440" timestamp="1584134743903" />
+    <state x="1577" y="460" key="Vcs.Push.Dialog.v2" timestamp="1584121887704">
       <screen x="0" y="0" width="3440" height="1440" />
     </state>
-    <state x="1577" y="460" key="Vcs.Push.Dialog.v2/3440.-213.1200.1920/0.0.3440.1440@0.0.3440.1440" timestamp="1584027606240" />
+    <state x="1577" y="460" key="Vcs.Push.Dialog.v2/3440.-213.1200.1920/0.0.3440.1440@0.0.3440.1440" timestamp="1584121887704" />
     <state x="1223" y="416" width="672" height="678" key="search.everywhere.popup" timestamp="1584121461858">
       <screen x="0" y="0" width="3440" height="1440" />
     </state>
