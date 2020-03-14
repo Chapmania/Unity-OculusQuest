@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b481dac0-0217-4f5c-82f2-85387ce712c3" name="Default Changelist" comment="UI 2">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.OculusQuestTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OculusQuestTest/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MapDisplay.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MapDisplay.cs" afterDir="false" />
-    </list>
+    <list default="true" id="b481dac0-0217-4f5c-82f2-85387ce712c3" name="Default Changelist" comment="UI 2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -126,7 +123,9 @@
     <MESSAGE value="Oculus Spatializer added" />
     <MESSAGE value="Noise octaves etc." />
     <MESSAGE value="Noise maps with colours." />
-    <option name="LAST_COMMIT_MESSAGE" value="Noise maps with colours." />
+    <MESSAGE value="Map size" />
+    <MESSAGE value="Spatializer upgraded" />
+    <option name="LAST_COMMIT_MESSAGE" value="Spatializer upgraded" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1577" y="459" key="Rider.ProjectTemplateDialog.Size" timestamp="1583941080343">
@@ -141,10 +140,10 @@
       <screen x="0" y="0" width="3440" height="1440" />
     </state>
     <state x="1442" y="389" key="SettingsEditor/3440.-213.1200.1920/0.0.3440.1440@0.0.3440.1440" timestamp="1584134743903" />
-    <state x="1577" y="460" key="Vcs.Push.Dialog.v2" timestamp="1584196569193">
+    <state x="1577" y="460" key="Vcs.Push.Dialog.v2" timestamp="1584196842907">
       <screen x="0" y="0" width="3440" height="1440" />
     </state>
-    <state x="1577" y="460" key="Vcs.Push.Dialog.v2/3440.-212.1920.1200/0.0.3440.1440@0.0.3440.1440" timestamp="1584196569193" />
+    <state x="1577" y="460" key="Vcs.Push.Dialog.v2/3440.-212.1920.1200/0.0.3440.1440@0.0.3440.1440" timestamp="1584196842907" />
     <state x="1577" y="460" key="Vcs.Push.Dialog.v2/3440.-213.1200.1920/0.0.3440.1440@0.0.3440.1440" timestamp="1584142234712" />
     <state x="1223" y="416" width="672" height="678" key="search.everywhere.popup" timestamp="1584121461858">
       <screen x="0" y="0" width="3440" height="1440" />
