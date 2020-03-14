@@ -2,102 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b481dac0-0217-4f5c-82f2-85387ce712c3" name="Default Changelist" comment="UI 2">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.OculusQuestTest/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OculusQuestTest/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.OculusQuestTest/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OculusQuestTest/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.OculusQuestTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OculusQuestTest/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/AudioManager.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/AudioManager/Audio.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/AudioManager/Audio/TestSounds.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/AudioManager/Audio/TestSounds/metal_sliding_door_close_01.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/AudioManager/Audio/TestSounds/metal_sliding_door_close_01.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/AudioManager/Audio/TestSounds/metal_sliding_door_close_01a.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/AudioManager/Audio/TestSounds/metal_sliding_door_close_01a.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/AudioManager/Audio/TestSounds/metal_sliding_door_open_01.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/AudioManager/Audio/TestSounds/metal_sliding_door_open_01.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/AudioManager/Audio/TestSounds/metal_sliding_door_open_01a.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/AudioManager/Audio/TestSounds/metal_sliding_door_open_01a.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/AudioManager/Scenes.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/AudioManager/Scenes/Scripts.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/AudioManager/Scenes/Scripts/TestScript.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/AudioManager/Scenes/Scripts/TestScript.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/AudioManager/Scenes/Test.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/AudioManager/Scenes/Test.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/AudioManager/Scripts.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/AudioManager/Scripts/Audio.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/AudioManager/Scripts/Audio/AmbienceEmitter.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/AudioManager/Scripts/Audio/AmbienceEmitter.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/AudioManager/Scripts/Audio/AudioManager.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/AudioManager/Scripts/Audio/AudioManager.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/AudioManager/Scripts/Audio/AudioManager_Sound.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/AudioManager/Scripts/Audio/AudioManager_Sound.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/AudioManager/Scripts/Audio/Editor.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/AudioManager/Scripts/Audio/Editor/AudioImportPostProcessor.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/AudioManager/Scripts/Audio/Editor/AudioImportPostProcessor.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/AudioManager/Scripts/Audio/Editor/AudioManagerInspector.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/AudioManager/Scripts/Audio/Editor/AudioManagerInspector.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/AudioManager/Scripts/Audio/Editor/MinMaxPropertyDrawer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/AudioManager/Scripts/Audio/Editor/MinMaxPropertyDrawer.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/AudioManager/Scripts/Audio/Editor/MixerSnapshotPropertyDrawer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/AudioManager/Scripts/Audio/Editor/MixerSnapshotPropertyDrawer.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/AudioManager/Scripts/Audio/Editor/OSPPropsPropertyDrawer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/AudioManager/Scripts/Audio/Editor/OSPPropsPropertyDrawer.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/AudioManager/Scripts/Audio/Editor/SoundFXPropertyDrawer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/AudioManager/Scripts/Audio/Editor/SoundFXPropertyDrawer.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/AudioManager/Scripts/Audio/Editor/SoundFXRefPropertyDrawer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/AudioManager/Scripts/Audio/Editor/SoundFXRefPropertyDrawer.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/AudioManager/Scripts/Audio/MinMaxAttribute.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/AudioManager/Scripts/Audio/MinMaxAttribute.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/AudioManager/Scripts/Audio/SoundEmitter.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/AudioManager/Scripts/Audio/SoundEmitter.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/AudioManager/Scripts/Audio/SoundFX.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/AudioManager/Scripts/Audio/SoundFX.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/AudioManager/Scripts/Audio/SoundFXRef.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/AudioManager/Scripts/Audio/SoundFXRef.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/AudioManager/Scripts/Utils.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/AudioManager/Scripts/Utils/Editor.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/AudioManager/Scripts/Utils/Editor/DrawerInspectorNote.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/AudioManager/Scripts/Utils/Editor/DrawerInspectorNote.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/AudioManager/Scripts/Utils/FastList.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/AudioManager/Scripts/Utils/FastList.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/AudioManager/Scripts/Utils/InspectorNoteAttribute.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/AudioManager/Scripts/Utils/InspectorNoteAttribute.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/Spatializer/Plugins/Android.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/Spatializer/Plugins/Android/libs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/Spatializer/Plugins/Android/libs/arm64-v8a.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/Spatializer/Plugins/Android/libs/arm64-v8a/libAudioPluginOculusSpatializer.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/Spatializer/Plugins/Android/libs/arm64-v8a/libAudioPluginOculusSpatializer.so.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/Spatializer/Plugins/Android/libs/armeabi-v7a.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/Spatializer/Plugins/Android/libs/armeabi-v7a/libAudioPluginOculusSpatializer.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/Spatializer/Plugins/Android/libs/armeabi-v7a/libAudioPluginOculusSpatializer.so.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/Spatializer/Plugins/AudioPluginOculusSpatializer.bundle.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/Spatializer/Plugins/AudioPluginOculusSpatializer.bundle/Contents.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/Spatializer/Plugins/AudioPluginOculusSpatializer.bundle/Contents/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/Spatializer/Plugins/AudioPluginOculusSpatializer.bundle/Contents/Info.plist.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/Spatializer/Plugins/AudioPluginOculusSpatializer.bundle/Contents/MacOS.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/Spatializer/Plugins/AudioPluginOculusSpatializer.bundle/Contents/MacOS/AudioPluginOculusSpatializer" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/Spatializer/Plugins/AudioPluginOculusSpatializer.bundle/Contents/MacOS/AudioPluginOculusSpatializer.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/Spatializer/Plugins/x86.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/Spatializer/Plugins/x86/AudioPluginOculusSpatializer.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/Spatializer/Plugins/x86/AudioPluginOculusSpatializer.dll.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/Spatializer/editor.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/Spatializer/editor/ONSPAudioPluginUpdater.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/Spatializer/editor/ONSPAudioPluginUpdater.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/Spatializer/editor/ONSPAudioPluginUpdaterStub.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/Spatializer/editor/ONSPAudioPluginUpdaterStub.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/Spatializer/editor/ONSPAudioSourceEditor.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/Spatializer/editor/ONSPAudioSourceEditor.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/Spatializer/editor/ONSPPropagationGeometryEditor.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/Spatializer/editor/ONSPPropagationGeometryEditor.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/Spatializer/editor/ONSPPropagationMaterialEditor.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/Spatializer/editor/ONSPPropagationMaterialEditor.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/Spatializer/editor/ONSPPropagationSerializationManager.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/Spatializer/editor/ONSPPropagationSerializationManager.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/Spatializer/editor/ONSPReflectionCustomGUI.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/Spatializer/editor/ONSPReflectionCustomGUI.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/AudioManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/AudioManager.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/XRSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/XRSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,27 +20,25 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Noise.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Oculus/Spatializer.meta" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MapGenerator.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/440D1D09-336D-46EE-B6BA-2229A55AC755/06/75207573/Math.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Resources/OVRBuildConfig.asset.meta" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BallController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.interaction.toolkit@0.9.3-preview/Runtime/Interaction/XRInteractionManager.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Resources/OVRBuildConfig.asset" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2EFDC780-086B-47F2-8399-FD0CE7A4BFA4/a3/2fed6dd2/Input.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MapDisplay.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Noise.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0D2763AD-8235-4FC6-A022-A2846086CA7B/8f/d4ec2f22/Axis.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/BoardController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Plane.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/58A34B0A-618D-424B-B5FC-18BB9BCDAC20/ab/d7204b41/RectTransform.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Editor/MapGeneratorEditor.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MapGenerator.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/TextureGenerator.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Oculus.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/440D1D09-336D-46EE-B6BA-2229A55AC755/06/75207573/Math.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Resources/OVRBuildConfig.asset.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BallController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/TextureGenerator.cs.meta" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -225,9 +130,14 @@
     <MESSAGE value="Map size" />
     <MESSAGE value="Spatializer upgraded" />
     <MESSAGE value="Oculus 3rd person controller" />
-    <option name="LAST_COMMIT_MESSAGE" value="Oculus 3rd person controller" />
+    <MESSAGE value="Oculus reimport 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Oculus reimport 1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="948" y="116" width="1576" height="1160" key="DiffContextDialog" timestamp="1584198945127">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state x="948" y="116" width="1576" height="1160" key="DiffContextDialog/3440.-212.1920.1200/0.0.3440.1440@0.0.3440.1440" timestamp="1584198945127" />
     <state x="1577" y="459" key="Rider.ProjectTemplateDialog.Size" timestamp="1583941080343">
       <screen x="0" y="0" width="3440" height="1440" />
     </state>

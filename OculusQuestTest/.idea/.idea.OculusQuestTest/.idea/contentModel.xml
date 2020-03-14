@@ -15,7 +15,16 @@
         </e>
         <e p="Oculus" t="Include">
           <e p="Spatializer" t="Include">
-            <e p="Scenes" t="Include">
+            <e p="Editor" t="Include">
+              <e p="ONSPAudioPluginUpdater.cs" t="Include" />
+              <e p="ONSPAudioPluginUpdaterStub.cs" t="Include" />
+              <e p="ONSPAudioSourceEditor.cs" t="Include" />
+              <e p="ONSPPropagationGeometryEditor.cs" t="Include" />
+              <e p="ONSPPropagationMaterialEditor.cs" t="Include" />
+              <e p="ONSPPropagationSerializationManager.cs" t="Include" />
+              <e p="ONSPReflectionCustomGUI.cs" t="Include" />
+            </e>
+            <e p="scenes" t="Include">
               <e p="Standard Assets" t="Include">
                 <e p="Character Controllers" t="Include">
                   <e p="Sources" t="Include">
