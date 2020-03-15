@@ -4,14 +4,15 @@ using UnityEngine;
 public class MapGenerator : MonoBehaviour {
     public enum DrawMode {
         NoiseMap,
-        ColourMap
+        ColourMap,
+        Mesh,
     };
 
     public DrawMode drawMode;
     public int mapWidth = 10;
     public int mapHeight = 10;
     public float noiseScale = 0.3f;
-
+    public float meshHeightMultiplier;
     public int octaves = 4;
     [Range(0, 1)] public float persistance = 0.5f;
     public float lacunarity = 2f;
@@ -42,8 +43,11 @@ public class MapGenerator : MonoBehaviour {
         if (drawMode == DrawMode.ColourMap) {
             display.DrawTexture(TextureGenerator.TextureFromColourMap(colourMap, mapWidth, mapHeight));
         }
-        else {
+        else if (drawMode == DrawMode.NoiseMap){
             display.DrawTexture(TextureGenerator.TextureFromHeightMap(noiseMap));
+        } else if (drawMode == DrawMode.Mesh) {
+            Debug.Log("Drawing mesh");
+            display.DrawMesh(MeshGenerator.GenerateTerrainMesh(noiseMap, meshHeightMultiplier), TextureGenerator.TextureFromColourMap(colourMap, mapWidth, mapHeight));
         }
     }
 
